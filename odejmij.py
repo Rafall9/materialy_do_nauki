@@ -4,5 +4,4 @@ def odejmij(var1, var2):
 
 
 odejmij(50,2)
-print("Dodaj")
-print("Dodaj")
+print("Start")
