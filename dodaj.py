@@ -4,5 +4,5 @@ def dodaj(var1, var2):
 
 
 dodaj(2,2)
-print("Dodaj")
 print("Start")
+print("Dodaj")
