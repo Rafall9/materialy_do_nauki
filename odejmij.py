@@ -1,6 +1,5 @@
-def dodaj(var1, var2):
-    wynik = var1 + var2
-    print("Wynik dodawania: " + str(wynik))
+def print_hi(name):
+    print("Siema {}, z rana mordo obrzygana!".format(name))
 
 
-dodaj(2,2)
+print_hi("Radek")

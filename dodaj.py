@@ -1,5 +1,6 @@
-def print_hi(name):
-    print("Siema {}, z rana mordo obrzygana!".format(name))
+def dodaj(var1, var2):
+    wynik = var1 + var2
+    print("Wynik dodawania: " + str(wynik))
 
 
-print_hi("Radek")
+dodaj(2,2)
