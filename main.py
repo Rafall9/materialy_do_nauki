@@ -1,5 +1,5 @@
 def print_hi(name):
-    print("Siema {}, z rana mordo obrzygana!".format(name))
+    print("Cześć przystojniaku {} jak sie masz?".format(name))
 
 
 print_hi("Radek")
