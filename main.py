@@ -3,3 +3,4 @@ def print_hi(name):
 
 
 print_hi("Radek")
+print("Start")

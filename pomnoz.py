@@ -4,3 +4,4 @@ def pomnoz(var1, var2):
 
 
 pomnoz(50,2)
+print("Start")
