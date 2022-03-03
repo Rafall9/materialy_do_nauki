@@ -1,5 +1,6 @@
-def print_hi(name):
-    print("Siema {}, z rana mordo obrzygana!".format(name))
+def odejmij(var1, var2):
+    wynik = var1 - var2
+    print("Wynik odejmowania: " + str(wynik))
 
 
-print_hi("Radek")
+odejmij(50,2)
