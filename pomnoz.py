@@ -1,6 +1,6 @@
-def odejmij(var1, var2):
-    wynik = var1 - var2
-    print("Wynik odejmowania: " + str(wynik))
+def pomnoz(var1, var2):
+    wynik = var1 * var2
+    print("Wynik monozeia: " + str(wynik))
 
 
-odejmij(50,2)
+pomnoz(50,2)
